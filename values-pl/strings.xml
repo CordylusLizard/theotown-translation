@@ -1456,8 +1456,8 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="dialog_shortbuildtime_text">Zobacz krótki film by skrócić czas budowy o %s.</string>
 
 
-    <string name="settings_saveonappswitch">Save on app switch</string>
-    <string name="settings_saveforscreenshot">Save for screenshot</string>
+    <string name="settings_saveonappswitch">Zapisz grę przy przełączaniu aplikacji</string>
+    <string name="settings_saveforscreenshot">Zapisz grę przy robieniu screenshota</string>
     <string name="draft_eiffeltower00_title">Wieża Eiffla</string>
     <string name="draft_eiffeltower00_text">Najbardziej znana budowla Paryża i całej Francji, Ma 324 metry wysokości i została ukończona w 1889.</string>
     <string name="dialog_wb_text02">Czy chciałbyś zebrać to co miasto %1$s zarobiło kiedy byłeś nieobecny?\n\n%2$s</string>
@@ -1619,9 +1619,9 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="draft_cat_root00_title">Wszystko</string>
 
 
-    <string name="draft_cat_residential00_title">Mieszk. budynki</string>
-    <string name="draft_cat_commercial00_title">Komerc. budynki</string>
-    <string name="draft_cat_industrial00_title">Przem. budynki</string>
+    <string name="draft_cat_residential00_title">Budynki stref M</string>
+    <string name="draft_cat_commercial00_title">Budynki stref K</string>
+    <string name="draft_cat_industrial00_title">Budynki stref P</string>
     <string name="offerstage_saving">Oszczędzasz %d%%</string>
     <string name="draft_pickle00_title">Przepotężny Ogórek</string>
     <string name="draft_pickle00_text">.</string>
@@ -1723,21 +1723,21 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="tool_removeroaddeco_text">Użyj tego narzędzia aby usunąć nakładki na drogi.</string>
 
 
-    <string name="draft_palmtree00_title">Palm tree</string>
-    <string name="draft_palmtree00_text">They are essential for any oasis.</string>
-    <string name="draft_cactus00_title">Cactus</string>
-    <string name="draft_cactus00_text">No water? No problem for these cacti.</string>
-    <string name="draft_ancientbear_guard00_title">Guard</string>
-    <string name="draft_ancientbear_guard00_text">A guard that watches over the Ancient Bear.</string>
-    <string name="draft_ancientbear_statue00_title">Ancient Bear</string>
-    <string name="draft_ancientbear_statue00_text">A statue of the Ancient Bear.</string>
-    <string name="draft_greatpyramid00_title">Great Pyramid of Giza</string>
+    <string name="draft_palmtree00_title">Palma</string>
+    <string name="draft_palmtree00_text">Niezbędna w każdej oazie.</string>
+    <string name="draft_cactus00_title">Kaktus</string>
+    <string name="draft_cactus00_text">Brak wody nie jest żadnym problemem dla tych roślin.</string>
+    <string name="draft_ancientbear_guard00_title">Strażnik</string>
+    <string name="draft_ancientbear_guard00_text">Strażnik pilnujący Starożytnego Misia.</string>
+    <string name="draft_ancientbear_statue00_title">Starożytny Miś</string>
+    <string name="draft_ancientbear_statue00_text">Rzeźba Starożytnego Misia.</string>
+    <string name="draft_greatpyramid00_title">Wielka Piramida w Gizie</string>
 
 
-    <string name="draft_wasteincinerator00_filter00_title">Filter</string>
-    <string name="draft_wasteincinerator00_filter00_text">Reduces the emitted pollution and noise drastically.</string>
-    <string name="draft_flowers00_title">Flowers</string>
-    <string name="draft_flowers00_text">Just some flowers.</string>
+    <string name="draft_wasteincinerator00_filter00_title">Filtr</string>
+    <string name="draft_wasteincinerator00_filter00_text">Mocno zmniejsza ilość emitowanych zanieczyszczeń i hałasu.</string>
+    <string name="draft_flowers00_title">Kwiaty</string>
+    <string name="draft_flowers00_text">Po prostu trochę kwiatków.</string>
 
 
     <string name="game_remaining_doubledincometime">Doubled income for %s</string>
@@ -1807,14 +1807,14 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="feature_coming_soon_fulfilled">Wczesny prezent</string>
 
 
-    <string name="draft_tree_sakura00_title">Cherry blossom</string>
-    <string name="draft_tree_sakura00_text">Although they are technically cherry trees they don\'t grow cherries.</string>
-    <string name="draft_circus00_title">Circus</string>
-    <string name="draft_circus00_text">It\'s time for circus!</string>
+    <string name="draft_tree_sakura00_title">Sakura</string>
+    <string name="draft_tree_sakura00_text">Mimo że biologicznie są to drzewa wiśni, nie rodzą one wiśni.</string>
+    <string name="draft_circus00_title">Cyrk</string>
+    <string name="draft_circus00_text">Cyrk przyjechał!</string>
     <string name="draft_chrysler00_title">Chrysler Building</string>
-    <string name="draft_chrysler00_text">You\'ve probably seen this building before. The Chrysler Building in New York is famous for it\'s iconic look. Completed in 1930 the building has a height of 319m.</string>
-    <string name="draft_greatpyramid00_text">The Giza pyramid complex is the oldest of the Seven Wonders of the Ancient World and well known around the world. The Great Pyramid is the largest of the three pyramids and has a height of 139m.</string>
-    <string name="draft_feature_landmarks04_text">Have some great buildings</string>
+    <string name="draft_chrysler00_text">Pewnie widziałeś już ten budynek wcześniej. Chrysler Building w Nowym Jorku jest sławny ze swojego ikonicznego stylu. Ukończony w 1930, ma wysokość 319m.</string>
+    <string name="draft_greatpyramid00_text">Kompleks piramid w Gizie jest najstarszym z siedmiu cudów starożytnego świata. Wielka piramida jest największą z trzech i ma wysokość 139m.</string>
+    <string name="draft_feature_landmarks04_text">Kilka pięknych budowli</string>
 
 
     <string name="draft_roaddeco_barrier_open00_title">Rogatki</string>
@@ -1843,7 +1843,7 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
 
 
     <string name="notification00_sandbox_title">NEWS: %1$s to wspaniałe miasto!</string>
-    <string name="notification00_sandbox_text">Burmistrzu, możesz być z siebie dumny!</string>
+    <string name="notification00_sandbox_text">Burmistrzu, możesz być z siebie dumnym!</string>
     <string name="notification01_title">NEWS: %1$s czuje się samotnie!</string>
     <string name="notification01_text">Burmistrzu, proszę wróć!</string>
 
