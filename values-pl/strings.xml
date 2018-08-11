@@ -321,7 +321,7 @@
     <string name="buildinginfo_upgrades">%1$,d/%2$,d Ulepszenia</string>
     <string name="buildinginfo_construction">W budowie: %1$.0f%% (%2$,d dni pozostało)</string>
     <string name="draft_footballstadion00_title">Stadion</string>
-    <string name="draft_footballstadion00_text">Stadion piłkarski o podobnym działaniu do zykłego boiska, jednak wiekszym zasięgu.</string>
+    <string name="draft_footballstadion00_text">Stadion piłkarski o podobnym działaniu do zwykłego boiska, jednak wiekszym zasięgu.</string>
     <string name="buildinginfo_cmdupgrade">Ulepszenia</string>
     <string name="draft_footballstadion00_lights_title">Reflektory</string>
     <string name="draft_footballstadion00_lights_text">Dają wiecej światła.</string>
@@ -617,7 +617,7 @@
     <string name="draft_plaza00_text">Rynek dla ratusza.</string>
     <string name="topic_birthday_theotown">Sto lat TheoTown! :D</string>
     <string name="menu_cmddonate">Dotacja</string>
-    <string name="draft_waterpump01_title">Mała pompa wodna</string>
+    <string name="draft_waterpump01_title">Mała przepompownia</string>
     <string name="draft_waterpump01_text">Zapewnia wodę. Musi być zbudowana nad wodą.</string>
     <string name="draft_filterplant00_title">Oczyszczalnia ścieków</string>
     <string name="draft_filterplant00_text">Oczyszcza wodę, zmniejsza ilość zmarnowanej wody.</string>
@@ -687,7 +687,7 @@
     <string name="draft_police01_title">Maly komisariat policji</string>
     <string name="draft_police01_text">Dla bezpieczeństwa.</string>
     <string name="disaster_riot_title">Zamieszki</string>
-    <string name="disaster_riot_text">Rozpoczyna zamieszki, które mogą być powstrzymane przez specjalne odziały policji.</string>
+    <string name="disaster_riot_text">Rozpoczyna zamieszki, które mogą być powstrzymane jedynie przez specjalne odziały policji.</string>
     <string name="disaster_riot_cmdtext">Niech wyjdą na ulice!</string>
     <string name="draft_beach00_title">Plaża</string>
     <string name="draft_beach00_text">Świetne miejsce do plażowania.</string>
