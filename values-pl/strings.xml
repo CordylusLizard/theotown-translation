@@ -1863,19 +1863,19 @@ Jeśli pozwolisz TheoTown na dostęp do pamięci zewnętrznej, miasta będą zap
     <string name="tool_removemetrotunnel_text">Usuńmy nieco tuneli metra.</string>
 
 
-    <string name="draft_windmill00_title">Old Dutch Windmill</string>
-    <string name="draft_windmill00_text">An old windmill for your city\'s countryside.</string>
-    <string name="draft_taxi_depot00_title">Taxi depot</string>
-    <string name="draft_taxi_depot00_text">A simple form of public transport.</string>
-    <string name="settings_showclosebutton">Close button in game menu</string>
-    <string name="menu_closegame">Exit game</string>
-    <string name="disaster_pickle_title">Pickle</string>
-    <string name="disaster_pickle_text">Pickle.</string>
-    <string name="disaster_pickle_cmdtext">Pickle!</string>
-    <string name="draft_disaster_picklehuge00_title">Almighty pickle</string>
-    <string name="draft_disaster_picklehuge00_text">A giant mutated god of all pickles.</string>
-    <string name="draft_disaster_picklehuge01_title">Defeated pickle</string>
-    <string name="draft_disaster_picklehuge01_text">A bit too big grown vegetable. It may spawn civilized pickles that use roads.</string>
+    <string name="draft_windmill00_title">Stary holenderski wiatrak</string>
+    <string name="draft_windmill00_text">Stary wiarak, pasujący świetnie do terenów wiejskich.</string>
+    <string name="draft_taxi_depot00_title">Baza taksówek</string>
+    <string name="draft_taxi_depot00_text">Prosta forma publicznego transportu.</string>
+    <string name="settings_showclosebutton">Guzik wyjścia z gry w menu głównym</string>
+    <string name="menu_closegame">Wyjdź z gry</string>
+    <string name="disaster_pickle_title">Ogórek</string>
+    <string name="disaster_pickle_text">Ogórek.</string>
+    <string name="disaster_pickle_cmdtext">Ogórek!</string>
+    <string name="draft_disaster_picklehuge00_title">Wszechmocny ogórek</string>
+    <string name="draft_disaster_picklehuge00_text">Wielki, zmutowany bóg wszystkich ogórków.</string>
+    <string name="draft_disaster_picklehuge01_title">Pokonany ogórek</string>
+    <string name="draft_disaster_picklehuge01_text">Nazbyt wyrośnięte warzywo. Może generować cywilizowane ogórki korzystające z dróg.</string>
 
 
     <string name="draft_discord_statue00_title">Discord statue</string>
@@ -1997,25 +1997,25 @@ Cons: Less challenges</string>
     <string name="store_featured">Featured</string>
 
 
-    <string name="dialog_storereport_title">Report plugin</string>
-    <string name="dialog_storereport_text">Please specify a reason below on why you want to report \"%s\":</string>
-    <string name="dialog_storereport_cmdreport">Report</string>
-    <string name="dialog_storereported_title">Plugin reported</string>
-    <string name="dialog_storereported_text">Thank you for your feedback! We will review this plugin and take proper actions.</string>
+    <string name="dialog_storereport_title">Zgłoś wtyczkę</string>
+    <string name="dialog_storereport_text">Proszę, wyjaśnij zgłoszenie \"%s\":</string>
+    <string name="dialog_storereport_cmdreport">Zgłoś</string>
+    <string name="dialog_storereported_title">Wtyczka zgłoszona</string>
+    <string name="dialog_storereported_text">Dziękujemy za Twoje zgłoszenie. Sprawdzimy tą wtyczkę i podejmiemy odpowiednie działania</string>
 
 
-    <string name="store_ratings">by %,d ratings</string>
-    <string name="store_loadingerror">Error</string>
-    <string name="dialog_storeerror_title">Loading error</string>
-    <string name="dialog_storeerror_text">This plugin could not be loaded for the following reason:</string>
-    <string name="store_new">New and Updated</string>
-    <string name="draft_cat_plugins00_title">Plugins</string>
-    <string name="dialog_storesearch_title">Search plugin</string>
-    <string name="dialog_storesearch_text">Enter a keyword below:</string>
-    <string name="dialog_storesearch_cmdsearch">Search</string>
+    <string name="store_ratings">wg %,d ocen</string>
+    <string name="store_loadingerror">Błąd</string>
+    <string name="dialog_storeerror_title">Błąd ładowania</string>
+    <string name="dialog_storeerror_text">Ta wtyczka nie może zostać pobrana z powodu:</string>
+    <string name="store_new">Nowe i zaktualizowane</string>
+    <string name="draft_cat_plugins00_title">Wtyczki</string>
+    <string name="dialog_storesearch_title">Szukaj wtyczki</string>
+    <string name="dialog_storesearch_text">Wpisz słowo kluczowe:</string>
+    <string name="dialog_storesearch_cmdsearch">Szukaj</string>
 
 
-    <string name="draft_deco_chr_santashouse00_title">Santa\'s House</string>
-    <string name="draft_deco_chr_santashouse00_text">Santa uses it as a base to distribute presents.</string>
+    <string name="draft_deco_chr_santashouse00_title">Dom Mikołaja</string>
+    <string name="draft_deco_chr_santashouse00_text">Święty Mikołaj uzywa go aby rozwozić prezenty.</string>
 
 </resources>
